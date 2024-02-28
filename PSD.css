@@ -1,0 +1,39 @@
+.menu{
+    display: flex;
+    width: 100%;
+    padding-top: 5%;
+    justify-content: space-between;
+}
+.menu>ul{
+    text-decoration: none;
+}
+.menu>img{
+    width: 30%;
+}
+.menu2{
+    width: 50%;
+    justify-content: space-around;
+    font-size: 30px;
+    font-weight: 900;
+    padding-top: 20px;
+}
+.menu2>a{
+    padding: 20px;
+}
+.menu>a{
+    font-size: 30px;
+    text-align: right;
+}
+.bottom{
+    display:flex;
+    width: 100%;
+}
+.imag1>img{
+    width: 100%;
+}
+.imag2{
+    padding: 5%;
+}
+.imag2>img{
+    width:100%;
+}
